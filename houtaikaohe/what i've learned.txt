@@ -1,0 +1,9 @@
+后台（一）阶段：
+	爬虫概念认知
+	新的库
+	urllib.request发送请求
+	beautifulsoup的使用
+	对于正则表达式进一步熟悉，能通过re.compile简单应用
+	...
+
+
